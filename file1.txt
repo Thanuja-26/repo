@@ -1,2 +1,3 @@
 "CSE"
 "Computer Science"
+"ECE"
